@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "FCCG",
+    "SHORT" : "silly stuff for your bot",
+    "DESCRIPTION" : "a cog made during FCCG's August 2017 Git Workshop",
+    "DISABLED" : false,
+    "NAME" : "Shenanigans",
+    "TAGS" : ["silly"],
+    "INSTALL_MSG" : "¯\\\_(ツ)\_/¯"
+}
