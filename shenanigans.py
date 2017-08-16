@@ -12,6 +12,10 @@ class Shenanigans:
         """lmao"""
         await self.bot.say('lmao')
 
+    @commands.command(pass_context=True)
+    async def boop(self, ctx):
+        """'w'"""
+        await self.bot.say('https://i.imgur.com/PLwj35n.jpg')
 
 def setup(bot):
     n = Shenanigans(bot)
