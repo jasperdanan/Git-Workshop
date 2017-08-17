@@ -4,10 +4,10 @@
 ### Before our journey, you might want to get these stuffs
 
 <div align="center">
- <img src="assets/git.png?raw=true "hi"" alt="" align="right" style="float:right"/>
- <img src="assets/gitkraken.png" alt="" align="left" style="float:left" />
+ <img src="assets/git.png?raw=true" align="right" style="float:right"/>
+ <img src="assets/gitkraken.png"  align="left" style="float:left" />
  <div id="content" align="center"> 
-     <img src="assets/sublimetext.png" alt="" align="center" />
+     <img src="assets/sublimetext.png"  align="center" />
  </div>
 </div>
 ---
