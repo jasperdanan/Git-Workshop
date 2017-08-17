@@ -3,9 +3,8 @@
 
 ### Before our journey, you might want to get these stuffs
 
-<ul>
-	<li><img src="github.png"></li>
-</ul>
+<img src="github.png"/>
+
 
 ---
 
