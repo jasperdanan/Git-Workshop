@@ -25,9 +25,9 @@
 <h3 style="text-align:left;margin-left:55%">What is Git?</h3>
 <p style="text-align:left;color:grey;margin-left:55%;font-size:.7em">Version Control Software<p>
 <ul style="text-align:left;margin-left:48%">
-    <li>What changed</li>  |
-    <li>When it changed</li>  |
-    <li>Who changed it</li>  |
+    <li>What changed</li>  <!-- .element: class="fragment" -->
+    <li>When it changed</li>  <!-- .element: class="fragment" -->
+    <li>Who changed it</li>  <!-- .element: class="fragment" -->
 </ul>
 
 ---
