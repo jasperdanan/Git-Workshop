@@ -4,12 +4,12 @@
 ### Before our journey, you might want to get these stuffs
 
 <div align="center">
- <img src="@Url.Content("https://github.com/gmcaguilar/Git-Workshop/blob/pitch-develop/assets/git.png")" alt="" align="right" style="float:right"/>
- <img src="@Url.Content("https://github.com/gmcaguilar/Git-Workshop/blob/pitch-develop/assets/gitkraken.png")" alt="" align="left" style="float:left" />
+ <img src="assets/git.png" alt="" align="right" style="float:right"/>
+ <img src="assets/gitkraken.png" alt="" align="left" style="float:left" />
  <div id="content" align="center"> 
-     <img src="@Url.Content("https://github.com/gmcaguilar/Git-Workshop/blob/pitch-develop/assets/sublimetext.png")" alt="" align="center" />
+     <img src="assets/sublimetext.png" alt="" align="center" />
  </div>
- </div>
+</div>
 ---
 
 ### Have you ever wanted to..
