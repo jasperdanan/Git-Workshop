@@ -71,5 +71,9 @@ and by far the [most used](https://trends.google.com/trends/explore?date=all&q=%
 
 +++
 
-[Github Logo](assets/github.png)
+![Github Logo](assets/github.png)
+
+---?image=assets/gitsvg.gif&size=100% auto
+
+<h3 style="text-align:left;margin-left:55%"> Git gud!</h3>
 
