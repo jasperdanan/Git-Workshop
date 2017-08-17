@@ -46,3 +46,15 @@ Other VCS may work <span style="color:#f04e29">better</span> for..
 and by far the [most used](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F05vqwg,%2Fm%2F012ct9,%2Fm%2F08441_,%2Fm%2F08w6d6,%2Fm%2F09d6g&hl=en-US) VCS overall  
 ![VCS Popularity](assets/google-trends.png)
 
++++
+
+<h3 style="text-align:left;margin-left:55%">Simply because...</h3>
+<ul style="text-align:left;margin-left:48%">
+    <li>You have your <span style="color:#f04e29">own copy</span>of the code locally in your PC/Mac. </li>  
+    <li>You can do almost anything offline because of the previous reason.</li>  
+    <li>Very fast and takes up less space than other VCS.</li> 
+    <li>And lastly because of.....</li>
+</ul>
+
++++?image=assets/github.jpeg&size=100% auto
+
