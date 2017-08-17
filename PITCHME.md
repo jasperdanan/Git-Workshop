@@ -12,7 +12,7 @@
  </div>
 </div>
 
---- ?image=assets/gitsvg.gif&size=100% auto
+---
 
 ### Have you ever wanted to..
 - Revert a change after making a mistake?  |
@@ -42,7 +42,7 @@
     <li>Who changed it</li>  <!-- .element: class="fragment" -->
 </ul>
 
----?image=assets/gitsvg.gif&size=100% auto
+---
 
 ### What about other VCS?
 
@@ -58,7 +58,7 @@ Other VCS may work <span style="color:#f04e29">better</span> for..
 and by far the [most used](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F05vqwg,%2Fm%2F012ct9,%2Fm%2F08441_,%2Fm%2F08w6d6,%2Fm%2F09d6g&hl=en-US) VCS overall  
 ![VCS Popularity](assets/google-trends.png)
 
-+++?image=assets/gitsvg.gif&size=100% auto
++++
 
 <h3 style="text-align:left;margin-left:4%">Simply because....</h3>
 <ul style="text-align:left;margin-left:25%">
