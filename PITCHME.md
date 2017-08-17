@@ -62,7 +62,8 @@ and by far the [most used](https://trends.google.com/trends/explore?date=all&q=%
 
 <h3 style="text-align:left;margin-left:4%">Simply because....</h3>
 <ul style="text-align:left;margin-left:25%">
-    <li>It is <span style="color:#f04e29">distributed.</span> and is <span style="color:#f04e29">fast</span></li>   
+    <li>It is <span style="color:#f04e29">distributed.</span></li>  
+    <li>Fast</li>  
     <li>Powerful <span style="color:#f04e29">branching</span></li> 
     <li>Lets the developer work how he wants to</li>  
     <li>Powerful <span style="color:#f04e29">staging environments</span></li>
