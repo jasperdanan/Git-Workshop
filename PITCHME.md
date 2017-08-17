@@ -5,7 +5,7 @@
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](assets/git.png)        |  ![](assets/sublimetext.png)
+![](assets/gitkraken.png)        |  ![](assets/git.png)
 
 ---
 
