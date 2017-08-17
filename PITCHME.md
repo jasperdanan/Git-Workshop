@@ -3,9 +3,9 @@
 
 ### Before our journey, you might want to get these stuffs
 
-![Git Logo](assets/git.png)
-![ST3 Logo](assets/sublimetext.png)
-![Gitk Logo](assets/gitkraken.png)
+			               |  
+:-------------------------:|:-------------------------:
+![](https://...Ocean.png)  |  ![](https://...Dark.png)
 
 ---
 
