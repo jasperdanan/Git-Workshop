@@ -43,7 +43,7 @@ Other VCS may work <span style="color:#f04e29">better</span> for..
 
 #### <span style="color:#f04e29">Git</span> is best for text files (<span style="color:#f04e29">code</span>)
 
-and by far the [most used VSC overall](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F05vqwg,%2Fm%2F012ct9,%2Fm%2F08441_,%2Fm%2F08w6d6,%2Fm%2F09d6g&hl=en-US)  
+and by far the [most used](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F05vqwg,%2Fm%2F012ct9,%2Fm%2F08441_,%2Fm%2F08w6d6,%2Fm%2F09d6g&hl=en-US) VSC overall  
 ![VCS Popularity](assets/google-trends.png)
 
 
