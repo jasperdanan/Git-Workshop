@@ -3,7 +3,7 @@
 
 ### Before our journey, you might want to get these stuffs
 
-<img src=?image=assets/github.png/>
+?image=assets/github.png
 
 
 ---
