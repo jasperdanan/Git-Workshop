@@ -4,4 +4,4 @@ For beginners.
 
 Using Python and [Red-DiscordBot](https://github.com/Cog-Creators/Red-DiscordBot) for excerises
 
-View the gitpitch [here](https://gitpitch.com/FreeCodeCampGuam/Git-Workshop) 
+View the gitpitch [here](https://gitpitch.com/FreeCodeCampGuam/Git-Workshop/pitch-develop) 
