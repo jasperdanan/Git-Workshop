@@ -3,7 +3,7 @@
 
 ### Before our journey, you might want to get these stuffs
 
-<div align="center">
+<div class="icons" align="center">
  <img src="https://raw.githubusercontent.com/gmcaguilar/Git-Workshop/pitch-develop/assets/git.png" align="right" style="float:right"/>
  <img src="https://raw.githubusercontent.com/gmcaguilar/Git-Workshop/pitch-develop/assets/gitkraken.png"  align="left" style="float:left" />
  <div id="content" align="center"> 

@@ -1,3 +1,8 @@
 .reveal .slides section h3 {
 	color: #f04e29;
 }
+
+.photo img { 
+	height: 300px;
+	width: 300px;
+}
