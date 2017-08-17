@@ -4,7 +4,7 @@
 ### Before our journey, you might want to get these stuffs
 
 <div align="center">
- <img src="assets/git.png" alt="" align="right" style="float:right"/>
+ <img src="assets/git.png?raw=true" alt="" align="right" style="float:right"/>
  <img src="assets/gitkraken.png" alt="" align="left" style="float:left" />
  <div id="content" align="center"> 
      <img src="assets/sublimetext.png" alt="" align="center" />
