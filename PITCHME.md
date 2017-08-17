@@ -3,10 +3,13 @@
 
 ### Before our journey, you might want to get these stuffs
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](assets/gitkraken.png)        |  ![](assets/git.png)
-
+<div align="center">
+ <img src="@Url.Content("assets/git.png")" alt="" align="right" style="float:right"/>
+ <img src="@Url.Content("assets/gitkraken.png")" alt="" align="left" style="float:left" />
+ <div id="content" align="center"> 
+     <img src="@Url.Content("assets/sublimetext.png")" alt="" align="center" />
+ </div>
+ </div>
 ---
 
 ### Have you ever wanted to..
