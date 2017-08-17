@@ -4,7 +4,7 @@
 ### Before our journey, you might want to get these stuffs
 
 <ul>
-	<li><img src="assets/github.png"></li>
+	<li><img src="github.png"></li>
 </ul>
 
 ---
