@@ -72,7 +72,7 @@ and by far the [most used](https://trends.google.com/trends/explore?date=all&q=%
 +++
 
 <h3 style="text-align:left;margin-left:4%">And especially because of....</h3>
-![Github Logo](assets/github.png)
+![Github Logo](assets/github.jpg)
 
 <!-- ---?image=assets/gitsvg.gif&size=100% auto
 
