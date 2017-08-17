@@ -68,5 +68,5 @@ and by far the [most used](https://trends.google.com/trends/explore?date=all&q=%
     <li>And lastly because of.....</li>
 </ul>
 
-+++?image=assets/github.png&size=100% auto
++++?image=assets/github.jpg&size=100% auto
 
