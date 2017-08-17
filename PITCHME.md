@@ -3,9 +3,9 @@
 
 ### Before our journey, you might want to get these stuffs
 
-			               |  
+Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://...Ocean.png)  |  ![](https://...Dark.png)
+![](assets/git.png)        |  ![](assets/gitkraken.png)
 
 ---
 
