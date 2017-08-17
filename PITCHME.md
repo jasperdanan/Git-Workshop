@@ -10,6 +10,7 @@
      <img src="https://raw.githubusercontent.com/gmcaguilar/Git-Workshop/pitch-develop/assets/sublimetext.png"  align="center" />
  </div>
 </div>
+
 ---
 
 ### Have you ever wanted to..
