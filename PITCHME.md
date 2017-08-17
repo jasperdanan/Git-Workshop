@@ -3,7 +3,7 @@
 
 ### Before our journey, you might want to get these stuffs
 
-?image=assets/github.png
+![Git Logo](assets/git.png)
 
 
 ---
