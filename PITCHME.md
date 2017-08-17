@@ -62,10 +62,11 @@ and by far the [most used](https://trends.google.com/trends/explore?date=all&q=%
 
 <h3 style="text-align:left;margin-left:4%">Simply because....</h3>
 <ul style="text-align:left;margin-left:25%">
-    <li>You have your <span style="color:#f04e29">own copy</span> of the code locally in your PC/Mac. </li>  
-    <li>You can do almost anything offline because of the previous reason.</li>  
-    <li>Very fast and takes up less space than other VCS.</li> 
-    <li>And lastly because of.....</li>
+    <li>It is <span style="color:#f04e29">distributed.</span></li>  
+    <li>Fast</li>  
+    <li>Powerful <span style="color:#f04e29">branching</span></li> 
+    <li>Lets the developer work how he wants to</li>  
+    <li>Powerful <span style="color:#f04e29">staging environments</span></li>
 </ul>
 
 +++
