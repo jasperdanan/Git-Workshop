@@ -151,3 +151,23 @@ $
 
 +++
 ## Now it's your turn!
+
+---
+### Sublime Text 3
+<p style="text-align:center;color:grey; font-size:.7em">The Text Editor </p>
+
+![sublime-snap](assets/sublimesnap.png)
+
++++
+
+### GitKraken
+<p style="text-align:center;color:grey; font-size:.7em">The Visualizer </p>
+
+![sublime-snap](assets/gitkrakensnap.png)
+
++++
+
+### Git
+<p style="text-align:center;color:grey; font-size:.7em">The Version Control </p>
+
+![sublime-snap](assets/gitsnap.png)
