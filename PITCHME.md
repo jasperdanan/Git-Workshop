@@ -105,7 +105,7 @@ They recognize that project activity is mostly voluntary. They recognize that th
 
 ### General Usage
 
-```shell
+```
 $ mkdir MyProject
 $ cd MyProject
 $ git init
