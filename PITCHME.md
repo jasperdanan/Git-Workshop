@@ -82,7 +82,7 @@ That's another thing Git does well. Git allows you to branch off and go play aro
 ---
 
 ##  Github
-![Image](./assets/md/assets/github.jpg)  
+![Github Logo](assets/github.jpg)  
 The <em2>home</em2> for Open Source
 
 +++
