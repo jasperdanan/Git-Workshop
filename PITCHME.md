@@ -60,9 +60,9 @@ and by far the [most used](https://trends.google.com/trends/explore?date=all&q=%
 <ul>
     <li>It's <em2>Distributed.</em2></li>  <!-- .element: class="fragment" -->
     <li>It's Fast</li>  <!-- .element: class="fragment" -->
+    <li>Powerful <em2>staging environments</em2></li>  <!-- .element: class="fragment" -->
     <li>Powerful <em2>branching</em2></li>  <!-- .element: class="fragment" -->
     <li>Lets the developer work how he wants to</li>  <!-- .element: class="fragment" -->
-    <li>Powerful <em2>staging environments</em2></li>  <!-- .element: class="fragment" -->
 </ul>
 
 Note:
