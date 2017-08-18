@@ -91,7 +91,7 @@ The <em2>home</em2> for Open Source
 ### Open Community
 
 - The largest open source community  |
-<li>[Trusted](https://github.com/nasa/kepler-pipeline)</li>  <!-- .element: class="fragment" -->
+<li>[Trusted](https://github.com/chrislgarry/Apollo-11)</li>  <!-- .element: class="fragment" -->
 - Welcoming  |  
 
 Note: 
