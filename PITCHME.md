@@ -5,10 +5,10 @@
 ### Before our journey, you might want to get these stuffs
 
 <div class="icons" align="center">
- <img src="https://raw.githubusercontent.com/gmcaguilar/Git-Workshop/pitch-develop/assets/git.png" align="right" style="float:right"/>
- <img src="https://raw.githubusercontent.com/gmcaguilar/Git-Workshop/pitch-develop/assets/gitkraken.png"  align="left" style="float:left" />
+ <img src="assets/git.png" align="right" style="float:right"/>
+ <img src="assets/gitkraken.png"  align="left" style="float:left" />
  <div id="content" align="center"> 
-     <img src="https://raw.githubusercontent.com/gmcaguilar/Git-Workshop/pitch-develop/assets/sublimetext.png"  align="center" />
+     <img src="assets/sublimetext.png"  align="center" />
  </div>
 </div>
 
