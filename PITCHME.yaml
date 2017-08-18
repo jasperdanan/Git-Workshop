@@ -1,3 +1,3 @@
 theme : black
 theme-override : assets/css/PITCHME.css
-highlight : monokai
+highlight : atom-one-dark
