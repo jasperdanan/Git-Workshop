@@ -8,7 +8,7 @@ em2 {
 	color: #f04e29;
 }
 
-.icons img { 
+img[alt$=-icon] { 
 	height: 300px;
 	width: 300px;
 }

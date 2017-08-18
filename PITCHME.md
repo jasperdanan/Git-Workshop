@@ -4,13 +4,9 @@
  
 ### Before our journey, you might want to get these stuffs
 
-<div class="icons" align="center">
- <img src="./assets/md/assets/git.png" align="right" style="float:right"/>
- <img src="./assets/md/assets/gitkraken.png"  align="left" style="float:left" />
- <div id="content" align="center"> 
-     <img src="./assets/md/assets/sublimetext.png"  align="center" />
- </div>
-</div>
+![gitkraken-icon](assets/gitkraken.png)
+![sublimetext-icon](assets/sublimetext.png)
+![git-icon](assets/git.png)
 
 ---
 
