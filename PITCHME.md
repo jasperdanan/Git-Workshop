@@ -102,7 +102,7 @@ They recognize that project activity is mostly voluntary. They recognize that th
 
 ---
 
-<p style="text-align:left;color:grey;margin-left:65%;font-size:.7em">
+<p>
 <img src="https://raw.githubusercontent.com/gmcaguilar/Git-Workshop/pitch-develop/assets/sublimesnap.png" alt="sublime-snap" style="float:left">
 			The Text Editor
 </p>
