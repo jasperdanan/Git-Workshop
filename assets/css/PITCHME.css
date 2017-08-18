@@ -8,6 +8,10 @@ em2 {
 	color: #f04e29;
 }
 
+dem {
+	color: grey;
+}
+
 img[alt$=-icon] { 
 	height: 300px;
 	width: 300px;

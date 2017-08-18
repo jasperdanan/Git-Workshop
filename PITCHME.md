@@ -151,6 +151,14 @@ $
 
 +++
 ## Now it's your turn!
+1. go to / make a project  |
+2. `git <em2>init</em2>`  |
+3. make a change  |
+4. git <em2>status</em2> <dem># to see the status of the staging env</dem>  |
+5. git <em2>add</em2> path  |
+6. git <em2>commit</em2> -m "message"  |
+7. git <em2>log</em2>   |
+--graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(auto)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)'  --all  |
 
 ---
 ### Sublime Text 3
