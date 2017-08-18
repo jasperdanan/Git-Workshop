@@ -135,17 +135,17 @@ $
 ```
 Let's break it down.
 @[1-2](Make or go into an existing project)
-@[3-4](Set up your git repo. This creates an invisible `.git` folder in the project folder)
+@[3-4](Set up your git repo. This creates an invisible <em2>.git</em2> folder in the project folder)
 @[5](add some stuff to the project)
 @[6](stage the changes)
-@[7](commit the staged changes with a `-m`essage)
+@[7](commit the staged changes with a <em2>-m</em2>essage)
 @[8-10](we now have our first git commit!)
 @[9](let's add some more stuff!)
-@[10](let's look at the `diff`erences between the project as it is now and what we had previously committed)
+@[10](let's look at the <em2>diff</em2>erences between the project as it is now and what we had previously committed)
 @[11-17](we see that..)
 @[13-14](the only thing that changed in our project was README.md)
 @[15](and that only 1 line changed. \(1 line removed, 1 line added\))
-@[16-17](and that change was the skateboard dude replacing `Hello World`)
+@[16-17](and that change was the skateboard dude replacing <em2>Hello World</em2>)
 @[18-19](double-checking the file, we see that that is the case.)
 @[20-23](now we add it and commit it like before!)
 
