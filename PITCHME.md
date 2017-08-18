@@ -103,5 +103,5 @@ They recognize that project activity is mostly voluntary. They recognize that th
 ---
 
 <p>The Text Editor<img src="https://raw.githubusercontent.com/gmcaguilar/Git-Workshop/pitch-develop/assets/sublimesnap.png" 
-alt="sublime-snap" style="float:left;width:1300px">
+alt="sublime-snap" style="float:left;width:700px">
 </p>
