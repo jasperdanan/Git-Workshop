@@ -100,8 +100,7 @@ Google, Adobe, Twitter, Paypal, AWS, Yahoo, LinkedIn, Facebook, Dropbox, Mozilla
 
 They recognize that project activity is mostly voluntary. They recognize that they need to provide an easy learning environment. and they recognize that creating something together is fun and inspiring.  
 
----
+---?image=assets/sublimesnap.png&size=100% auto
 
-<p>The Text Editor<img src="https://raw.githubusercontent.com/gmcaguilar/Git-Workshop/pitch-develop/assets/sublimesnap.png" 
-alt="sublime-snap" style="float:left;width:700px">
-</p>
+<h3 style="text-align: left;margin-left:65%">Sublime Text 3</h3>
+<p style="text-align:left;color:grey;margin-left:65%;font-size:.7em">The Text Editor<p>
