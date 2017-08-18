@@ -144,7 +144,7 @@ $
 @[12](let's look at the <em2>diff</em2>erences between the project as it is now and what we had previously committed)
 @[13-19](we see that..)
 @[15-16](the only thing that changed in our project was README.md)
-@[17](and that only 1 line changed. \(1 line removed, 1 line added\))
+@[17](and that only 1 line changed. \(1 line removed, 1 line added))
 @[18-19](and that change was the skateboard dude replacing <em2>Hello World</em2>)
 @[20-21](double-checking the file, we see that that is the case.)
 @[22-25](now we add it and commit it like before!)
