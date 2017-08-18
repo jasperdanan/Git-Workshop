@@ -102,10 +102,20 @@ They recognize that project activity is mostly voluntary. They recognize that th
 
 ---
 ### Sublime Text 3
-<p style="text-align:center;color:grey; font-size:.7em">The Text Editor <p>
+<p style="text-align:center;color:grey; font-size:.7em">The Text Editor </p>
 
 ![sublime-snap](assets/sublimesnap.png)
 
-<!--<h3 style="text-align: left;margin-left:65%;margin-top:40%">Sublime Text 3</h3>
-<p style="text-align:left;color:grey;margin-left:65%;margin-top:20%;font-size:.7em">The Text Editor<p> -->
++++
 
+### GitKraken
+<p style="text-align:center;color:grey; font-size:.7em">The Visualizer </p>
+
+![sublime-snap](assets/gitkrakensnap.png)
+
++++
+
+### Git
+<p style="text-align:center;color:grey; font-size:.7em">The Version Control </p>
+
+![sublime-snap](assets/gitsnap.png)
