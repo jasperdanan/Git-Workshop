@@ -102,6 +102,6 @@ They recognize that project activity is mostly voluntary. They recognize that th
 
 ---
 
-
-<img src="https://raw.githubusercontent.com/gmcaguilar/Git-Workshop/pitch-develop/assets/sublimesnap.png" alt="Drawing" style="width: 300px;height: 200px"/> | ### Sublime Text
--------------------------------------------------------------------------------------------------------------------------------------------------------------| -----------------
+<h3 style="text-align: left;margin-left:65%"></h3>
+<img src="https://raw.githubusercontent.com/gmcaguilar/Git-Workshop/pitch-develop/assets/sublimesnap.png"  style="width: 600px;height: 500px"/> 
+<p style="text-align:left;color:grey;margin-left:65%;font-size:.7em">The Text Editor<p>
