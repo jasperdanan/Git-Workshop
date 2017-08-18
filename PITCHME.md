@@ -81,12 +81,24 @@ That's another thing Git does well. Git allows you to branch off and go play aro
 
 
 
+---
+
+##  Github
+![Image](./assets/md/assets/github.jpg)  
+The <em2>home</em2> for Open Source
+
 +++
 
-<h3 style="text-align:left;margin-left:4%">And especially because of....</h3>
-![Github Logo](assets/github.jpg)
+### Open Community
 
-<!-- ---?image=assets/gitsvg.gif&size=100% auto
+- The largest open source community  |
+- [Trusted](https://github.com/nasa/kepler-pipeline)  |
+- Welcoming  |  
 
-<h3 style="text-align:left;margin-left:55%"> Git gud!</h3> -->
+Note: 
+64+ million open source projects, 23+ million users
+
+Google, Adobe, Twitter, Paypal, AWS, Yahoo, LinkedIn, Facebook, Dropbox, Mozilla (everything they do is on github: https://github.com/mozilla/bedrock/), NASA (kepler: https://github.com/nasa/kepler-pipeline)
+
+They recognize that project activity is mostly voluntary. They recognize that they need to provide an easy learning environment. and they recognize that creating something together is fun and inspiring.  
 
