@@ -152,13 +152,12 @@ $
 +++
 ## Now it's your turn!
 - go to / make a project  |
-- `git <em2>init</em2>`  |
+<li>git <em2>init</em2></li>  <!-- .element: class="fragment" -->
 - make a change  |
-- git <em2>status</em2> <dem># to see the status of the staging env</dem>  |
-- git <em2>add</em2> path  |
-- git <em2>commit</em2> -m "message"  |
-- git <em2>log</em2>   |
---graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(auto)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)'  --all  |
+<li>git <em2>status</em2> <dem># to see the status of the staging env</dem></li>  <!-- .element: class="fragment" -->
+<li>git <em2>add</em2> path</li>  <!-- .element: class="fragment" -->
+<li>git <em2>commit</em2> -m "message"</li>  <!-- .element: class="fragment" -->
+<li>git <em2>log</em2><!-- .element: class="fragment" --> --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(auto)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)'  --all  </li> <!-- .element: class="fragment" -->
 
 ---
 ### Sublime Text 3
