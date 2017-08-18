@@ -31,7 +31,7 @@
 ---?image=assets/gitkraken-graph.png&size=100% auto
 
 <h3 style="text-align:left;margin-left:55%">What is Git?</h3>
-<p style="text-align:left;color:grey;margin-left:55%;font-size:.7em">Version Control Software <br />(VCS)<p>
+<p style="text-align:left;color:grey;margin-left:55%;font-size:.7em">Version Control Software (VCS)<p>
 <ul style="text-align:left;margin-left:48%">
     <li>What changed</li>  <!-- .element: class="fragment" -->
     <li>When it changed</li>  <!-- .element: class="fragment" -->
