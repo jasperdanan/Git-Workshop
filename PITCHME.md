@@ -106,18 +106,18 @@ They recognize that project activity is mostly voluntary. They recognize that th
 ### General Usage
 
 ```shell
- ~/Projects $ mkdir MyProject
- ~/Projects $ cd MyProject
- ~/P/MyProject $ git init
+$ mkdir MyProject
+$ cd MyProject
+$ git init
 Initialized empty Git repository in /Users/irdumb/Projects/MyProject/.git/
- ~/P/MyProject   master  $ echo "Hello World" > README.md
- ~/P/MyProject   master ± $ git add README.md
- ~/P/MyProject   master ± $ git commit -m "added readme"
+$ echo "Hello World" > README.md
+$ git add README.md
+$ git commit -m "added readme"
 [master (root-commit) 5ca20d4] added readme
  1 file changed, 1 insertion(+)
  create mode 100644 README.md
- ~/P/MyProject   master  $ echo "o/-<|:" > README.md
- ~/P/MyProject   master ± $ git diff HEAD
+$ echo "o/-<|:" > README.md
+$ git diff HEAD
 diff --git a/README.md b/README.md
 index 557db03..ff46535 100644
 --- a/README.md
@@ -125,9 +125,9 @@ index 557db03..ff46535 100644
 @@ -1 +1 @@
 -Hello World
 +o/-<|:
- ~/P/MyProject   master ± $ git add README.md
- ~/P/MyProject   master ± $ git commit -m "added skateboard dude to readme"
+$ git add README.md
+$ git commit -m "added skateboard dude to readme"
 [master 492d605] added skateboard dude to readme
  1 file changed, 1 insertion(+), 1 deletion(-)
- ~/P/MyProject   master  $
+$
 ```
