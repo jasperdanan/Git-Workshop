@@ -100,3 +100,8 @@ Google, Adobe, Twitter, Paypal, AWS, Yahoo, LinkedIn, Facebook, Dropbox, Mozilla
 
 They recognize that project activity is mostly voluntary. They recognize that they need to provide an easy learning environment. and they recognize that creating something together is fun and inspiring.  
 
+---
+
+
+![](./assets/md/assets/sublimesnap.png) | Sublime Text
+------------ | -------------
