@@ -1,4 +1,4 @@
-![LOGO](https://cdn.discordapp.com/attachments/233002612264271872/346271519678136330/FCCGGit_Workshop_2.png)
+![LOGO](assets/FCCGGit_Workshop_Logo.png)
 
 ---
  
