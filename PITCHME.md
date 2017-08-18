@@ -102,7 +102,7 @@ They recognize that project activity is mostly voluntary. They recognize that th
 
 ---
 ## Sublime Text 3
-### Not your daddy's text editor 
+The Text Editor |
 
 ![sublime-snap](assets/sublimesnap.png)
 
