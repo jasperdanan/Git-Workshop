@@ -157,7 +157,7 @@ $
 <li>git <em2>status</em2> <dem># to see the status of the staging env</dem></li>  <!-- .element: class="fragment" -->
 <li>git <em2>add</em2> path</li>  <!-- .element: class="fragment" -->
 <li>git <em2>commit</em2> -m "message"</li>  <!-- .element: class="fragment" -->
-<li>git <em2>log</em2><!-- .element: class="fragment" --> --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(auto)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)'  --all  </li> <!-- .element: class="fragment" -->
+<li>git <em2>log</em2> <dem style="font-size: .7em">--graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(auto)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)'  --all</dem> <!-- .element: class="fragment" --> </li> <!-- .element: class="fragment" -->
 
 ---
 ### Sublime Text 3
