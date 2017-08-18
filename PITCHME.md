@@ -77,6 +77,7 @@ Git's staging environment lets break up all those ideas after we decide it's tim
 
 That's another thing Git does well. Git allows you to branch off and go play around with a new idea or feature seamlessly. This also allows for powerful collaboration without stepping on other developers' toes, and we'll get into more of that later.
 
+git doesn't get in the way of a developer's prefered workflow. git is just a set of tools, you can use whatever workflow you want and it'll do its job. You can customize it to your liking, specifying your own workflow, adding hooks to lets say redeploy your website whenever a commit it pushed to the master branch
 
 
 ---
