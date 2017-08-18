@@ -46,14 +46,14 @@
 
 ### What about other VCS?
 
-Other VCS may work <span style="color:#f04e29">better</span> for..
+Other VCS may work <em2>better</em2> for..
 - binary files
 - large repositories
 - images
 
 +++
 
-<h3 style="color:white"><span style="color:#f04e29">Git</span> is best for text files (<span style="color:#f04e29">code</span>)</h3>
+<h3 style="color:white"><em2>Git</em2> is best for text files (<em2>code</em2>)</h3>
 
 and by far the [most used](https://trends.google.com/trends/explore?date=all&q=%2Fm%2F05vqwg,%2Fm%2F012ct9,%2Fm%2F08441_,%2Fm%2F08w6d6,%2Fm%2F09d6g&hl=en-US) VCS overall  
 ![VCS Popularity](assets/google-trends.png)
@@ -61,11 +61,11 @@ and by far the [most used](https://trends.google.com/trends/explore?date=all&q=%
 +++
 
 ### Simply because....
-- It's <span style="color:#f04e29">Distributed.</span>  |
+- It's <em2>Distributed.</em2>  |
 - It's Fast  |
-- Powerful <span style="color:#f04e29">branching</span>  |
+- Powerful <em2>branching</em2>  |
 - Lets the developer work how he wants to  |
-- Powerful <span style="color:#f04e29">staging environments</span>  |
+- Powerful <em2>staging environments</em2>  |
 
 +++
 
