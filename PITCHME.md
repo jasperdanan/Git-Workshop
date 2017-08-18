@@ -152,7 +152,7 @@ $
 +++
 ## Now it's your turn!
 - go to / make a project
-- `git <em2>init</em2>`
+- git <em2>init</em2>
 - make a change
 - git <em2>status</em2> <dem># to see the status of the staging env</dem>
 - git <em2>add</em2> path
