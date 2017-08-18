@@ -103,5 +103,5 @@ They recognize that project activity is mostly voluntary. They recognize that th
 ---
 
 
-![](./assets/md/assets/sublimesnap.png) | Sublime Text
------------- | -------------
+![](https://raw.githubusercontent.com/gmcaguilar/Git-Workshop/pitch-develop/assets/sublimesnap.png) | Sublime Text
+--------------------------------------------------------------------------------------------------- | -------------
