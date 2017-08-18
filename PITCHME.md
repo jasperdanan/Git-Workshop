@@ -133,7 +133,7 @@ $ git commit -m "added skateboard dude to readme"
  1 file changed, 1 insertion(+), 1 deletion(-)
 $
 ```
-@[1-24](Let's break it down.)
+@[0](Let's break it down.)
 @[1-2](Make or go into an existing project)
 @[3-4](Set up your git repo. This creates an invisible <em2>.git</em2> folder in the project folder)
 @[5](add some stuff to the project)
