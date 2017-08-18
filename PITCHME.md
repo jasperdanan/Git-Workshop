@@ -125,9 +125,26 @@ index 557db03..ff46535 100644
 @@ -1 +1 @@
 -Hello World
 +o/-<|:
+$ cat README.md
+o/-<|:
 $ git add README.md
 $ git commit -m "added skateboard dude to readme"
 [master 492d605] added skateboard dude to readme
  1 file changed, 1 insertion(+), 1 deletion(-)
 $
 ```
+@[1-2](Make or go into an existing project)
+@[3-4](Set up your git repo. This creates an invisible `.git` folder in the project folder)
+@[5](add some stuff to the project)
+@[6](stage the changes)
+@[7](commit the staged changes with a `-m`essage)
+@[8-10](we now have our first git commit!)
+@[9](let's add some more stuff!)
+@[10](let's look at the `diff`erences between the project as it is now and what we had previously committed)
+@[11-17](we see that..)
+@[13-14](the only thing that changed in our project was README.md)
+@[15](and that only 1 line changed. \(1 line removed, 1 line added\))
+@[16-17](and that change was the skateboard dude replacing `Hello World`)
+@[18-19](double-checking the file, we see that that is the case.)
+@[20-23](now we add it and commit it like before!)
+
