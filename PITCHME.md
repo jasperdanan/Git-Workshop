@@ -102,5 +102,5 @@ They recognize that project activity is mostly voluntary. They recognize that th
 
 ---?image=assets/sublimesnap.png&size=100% auto
 
-<h3 style="text-align: left;margin-left:65%;margin-top:50%">Sublime Text 3</h3>
-<p style="text-align:left;color:grey;margin-left:65%;margin-top:30%;font-size:.7em">The Text Editor<p>
+<h3 style="text-align: left;margin-left:65%;margin-top:40%">Sublime Text 3</h3>
+<p style="text-align:left;color:grey;margin-left:65%;margin-top:20%;font-size:.7em">The Text Editor<p>
