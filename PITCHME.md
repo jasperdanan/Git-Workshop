@@ -25,11 +25,11 @@
 +++
 
 ### What about..
-- Collaborate on a single document seamlessly while offline? |
+- Collaborate on a single document seamlessly while offline?  |
 - Needed to maintain multiple versions?  |
 - Prove that a change broke or fixed some code?  |
-- Know what decisions led to the introduction of a feature? |
-- Isolate the staged changes to be moved into your production server? |
+- Know what decisions led to the introduction of a feature?  |
+- Isolate the staged changes to be moved into your production server?  |
 
 
 ---?image=assets/gitkraken-graph.png&size=100% auto
