@@ -1,7 +1,8 @@
 from discord.ext import commands
 
 class Shenanigans:
-    """Shenanigans - silly stuff for your bot"""
+    """Shenanigans - silly stuff for your bot
+    Git Workshop"""
 
     def __init__(self, bot):
         self.bot = bot
