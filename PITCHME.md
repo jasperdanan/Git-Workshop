@@ -199,7 +199,6 @@ git clone https://github.com/FreeCodeCampGuam/Git-Workshop
 @[9-12](This is a simple command that makes the bot say <dem>boop</dem> when we type <dem>pboop</dem> in <dmention>#testing</dmention>)
 @[9](This makes the following function a command for the bot)
 @[10](<em2>boop</em2> is the name of our command)
-@[11](This is the desciption that gets displayed when you type <dem>phelp boop</dem>)
 @[12](Here we tell the bot to say <dem>boop</dem>)
 
 
