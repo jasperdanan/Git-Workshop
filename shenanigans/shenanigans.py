@@ -40,7 +40,7 @@ class Shenanigans:
         """strikes a random pose!"""
 
         poses = [":SeemsMarco:", ":MarcoSalt:", ":MarcoSaltier:"]
-        await self.bot.say(poses[randrange([1, 4])])
+        await self.bot.say(poses[randrange(1, 4)])
         
     @commands.command(pass_context=True)
     async def king(self, ctx):
