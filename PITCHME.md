@@ -201,6 +201,11 @@ git clone https://github.com/FreeCodeCampGuam/Git-Workshop
 @[10](<em2>boop</em2> is the name of our command)
 @[12](Here we tell the bot to say <dem>boop</dem>)
 
++++
+
+### Let's add our own commands!
+- Open <em2>shenanigans/shenanigans.py</em2> in Sublime Text  |
+- Go to https://gitpitch.com/FreeCodeCampGuam/Git-Workshop to follow along  |
 
 +++?code=shenanigans/shenanigans.py&lang=python
 
