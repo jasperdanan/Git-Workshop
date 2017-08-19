@@ -32,7 +32,8 @@ class Shenanigans:
         pass
     @commands.command(pass_context=True)
     async def king(self, ctx):
-        """strikes a random pose!"""
+        """Crowns you King of Code Camp"""
+        await self.bot.say('I declare Preator to be King of Code Camp!')
         pass    
 
 def setup(bot):
