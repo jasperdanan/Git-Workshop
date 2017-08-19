@@ -31,7 +31,7 @@ class Shenanigans:
     async def pose(self, ctx):
         """strikes a random pose!"""
         poses = [":SeemsMarco:", ":MarcoSalt:", ":MarcoSaltier:"]
-        await self.bot.say(poses[randrange([1, 4])])
+        await self.bot.say(poses[randrange(1, 4)])
         
 
 def setup(bot):
