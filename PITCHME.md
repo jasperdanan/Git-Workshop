@@ -187,7 +187,8 @@ $
 git clone https://github.com/FreeCodeCampGuam/Git-Workshop
 ```
 - Open it in sublime  |
-![open in sublime](open-in-sublime.png)  <!-- .element: class="fragment" -->
+
+![open in sublime](assets/open-in-sublime.png)  <!-- .element: class="fragment" -->
 
 +++?code=shenanigans/skeleton&lang=python
 
