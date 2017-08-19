@@ -9,7 +9,7 @@ class Shenanigans:
     @commands.command(pass_context=True)
     async def boop(self, ctx):
         """boooooop"""
-        await self.bot.say('boop')
+        await self.bot.say('https://i.imgur.com/PLwj35n.jpg')
 
     @commands.command(pass_context=True)
     async def double(self, ctx, number: int):

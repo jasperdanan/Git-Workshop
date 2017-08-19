@@ -211,4 +211,9 @@ git clone https://github.com/FreeCodeCampGuam/Git-Workshop
 
 +++?code=shenanigans/shenanigans.py&lang=python
 
-@[0](https://i.imgur.com/PLwj35n.jpg)
+@[0](instead of <dem>boop</dem>, let's make it send this image https://i.imgur.com/PLwj35n.jpg)
+@[14-17]
+@[19-22]
+@[24-27]
+@[29-32]
+
