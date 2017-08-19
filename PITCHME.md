@@ -204,8 +204,10 @@ git clone https://github.com/FreeCodeCampGuam/Git-Workshop
 +++
 
 ### Let's add our own commands!
-- Open <em2>shenanigans/shenanigans.py</em2> in Sublime Text  |
-- Go to https://gitpitch.com/FreeCodeCampGuam/Git-Workshop to follow along  |
+<ul>
+    <li>Open <em2>shenanigans/shenanigans.py</em2> in Sublime Text</li>  <!-- .element: class="fragment" -->
+    <li>Go to https://gitpitch.com/FreeCodeCampGuam/Git-Workshop to follow along</li>  <!-- .element: class="fragment" -->
+</ul>
 
 +++?code=shenanigans/shenanigans.py&lang=python
 
