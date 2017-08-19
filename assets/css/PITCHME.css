@@ -12,8 +12,8 @@ dem {
 	color: grey;
 }
 
-mention {
-	color: rgb(114,137,216);
+dmention {
+	color: #7289d8;
 }
 
 img[alt$=-icon] { 
