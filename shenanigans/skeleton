@@ -1,0 +1,15 @@
+from discord.ext import commands
+
+class Shenanigans:
+    """Shenanigans - silly stuff for your bot"""
+
+    def __init__(self, bot):
+        self.bot = bot
+
+    @commands.command(pass_context=True)
+    async def boop(self, ctx):
+        """boooooop"""
+        await self.bot.say('boop')
+
+def setup(bot):
+    bot.add_cog(Shenanigans(bot))

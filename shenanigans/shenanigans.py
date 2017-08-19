@@ -1,22 +1,35 @@
-import discord
 from discord.ext import commands
 
 class Shenanigans:
-    """shenanigans - silly stuff for your bot"""
+    """Shenanigans - silly stuff for your bot"""
 
     def __init__(self, bot):
         self.bot = bot
 
     @commands.command(pass_context=True)
-    async def eyy(self, ctx):
-        """lmao"""
-        await self.bot.say('lmao')
+    async def boop(self, ctx):
+        """boooooop"""
+        await self.bot.say('boop')
 
     @commands.command(pass_context=True)
-    async def boop(self, ctx):
-        """'w'"""
-        await self.bot.say('https://i.imgur.com/PLwj35n.jpg')
+    async def double(self, ctx, number: int):
+        """doubles what you give me"""
+        pass
+
+    @commands.command(pass_context=True, no_pm=True)
+    async def add(self, ctx, a: int, b: int):
+        """add 2 numbers"""
+        pass
+
+    @commands.command(pass_context=True)
+    async def sort(self, ctx, *items):
+        """sorts the list of items you give me"""
+        pass
+
+    @commands.command(pass_context=True)
+    async def pose(self, ctx):
+        """strikes a random pose!"""
+        pass
 
 def setup(bot):
-    n = Shenanigans(bot)
-    bot.add_cog(n)
+    bot.add_cog(Shenanigans(bot))

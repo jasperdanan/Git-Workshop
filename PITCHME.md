@@ -178,3 +178,13 @@ $
 <p style="text-align:center;color:grey; font-size:.7em">The Version Control </p>
 
 ![sublime-snap](assets/gitsnap.png)
+
+---
+
+## Let's Collaborate!
+
++++?code=shenanigans/skeleton&lang=python
+
++++?code=shenanigans/shenanigans.py&lang=python
+
+@[0]https://i.imgur.com/PLwj35n.jpg
