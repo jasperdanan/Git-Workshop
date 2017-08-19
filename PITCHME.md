@@ -191,11 +191,11 @@ git clone https://github.com/FreeCodeCampGuam/Git-Workshop
 ![open in sublime](assets/open-in-sublime.png)  <!-- .element: class="fragment" -->
 
 +++?code=shenanigans/skeleton&lang=python
-@[0](This is a skeleton cog for a Red-DiscordBot <span style="color: rgb(114,137,216)">@fccgpotato</span> in <span style="color: rgb(114,137,216)">#testing</span>)
-@[1](we're using the <em2>`discord.py`</em2> api wrapper)
+@[0](This is a skeleton cog for a Red-DiscordBot <mention>@fccgpotato</mention> in <mention>#testing</mention>)
+@[1](we're using the <em2>discord.py</em2> api wrapper)
 @[3-7](our cog will be named <em2>Shenanigans</em2>. This a how you make a class in <em2>Python</em2>)
 @[14-15](the Red bot will call the <em2>setup</em2> function to load the cog. It gives the bot an instance of our <em2>Shenanigans</em2> class)
-@[9-12](this is a simple command that makes the bot say <dem>boop</dem> when we type <dem>pboop</dem> in <span style="color: rgb(114,137,216)">#testing</span>)
+@[9-12](this is a simple command that makes the bot say <dem>boop</dem> when we type <dem>pboop</dem> in <mention>#testing</mention>
 @[9](this makes the following function a command for the bot)
 @[10](<em2>boop</em2> is the name of our command)
 @[11](this is the desciption that gets displayed when you type <dem>phelp boop</dem>)

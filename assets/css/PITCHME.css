@@ -12,6 +12,10 @@ dem {
 	color: grey;
 }
 
+mention {
+	color: rgb(114,137,216);
+}
+
 img[alt$=-icon] { 
 	height: 300px;
 	width: 300px;
