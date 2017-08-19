@@ -9,7 +9,7 @@ class Shenanigans:
     @commands.command(pass_context=True)
     async def boop(self, ctx):
         """boooooop"""
-        await self.bot.say('boop')
+        await self.bot.say('https://i.imgur.com/PLwj35n.jpg')
 
     @commands.command(pass_context=True)
     async def double(self, ctx, number: int):
@@ -30,6 +30,10 @@ class Shenanigans:
     async def pose(self, ctx):
         """strikes a random pose!"""
         pass
+    @commands.command(pass_context=True)
+    async def king(self, ctx):
+        """strikes a random pose!"""
+        pass    
 
 def setup(bot):
     bot.add_cog(Shenanigans(bot))
