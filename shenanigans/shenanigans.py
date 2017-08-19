@@ -20,8 +20,12 @@ class Shenanigans:
 
     @commands.command(pass_context=True, no_pm=True)
     async def add(self, ctx, a: int, b: int):
+        
         """add 2 numbers"""
-        await self.bot.say(a+b)
+        a = 5
+        b = 4
+        ctx = a + b
+        await self.bot.say(ctx )
         pass
 
     @commands.command(pass_context=True)
