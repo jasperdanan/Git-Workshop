@@ -24,7 +24,8 @@ class Shenanigans:
 
     @commands.command(pass_context=True)
     async def sort(self, ctx, *items):
-        """sorts the list of items you give me"""
+        """sorts the list of items you give me """
+        await self.bot.say(items.sort())
         pass
 
     @commands.command(pass_context=True)
