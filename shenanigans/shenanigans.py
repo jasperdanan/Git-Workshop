@@ -21,12 +21,14 @@ class Shenanigans:
     @commands.command(pass_context=True, no_pm=True)
     async def add(self, ctx, a: int, b: int):
         """add 2 numbers"""
+        await self.bot.say(a+b)
         pass
 
     @commands.command(pass_context=True)
     async def sort(self, ctx, *items):
-        """sorts the list of items you give me"""
-        await self.bot.say(sorted(items))
+        """sorts the list of items you give me """
+        await self.bot.say(items.sort())
+        pass
 
     @commands.command(pass_context=True)
     async def pose(self, ctx):
