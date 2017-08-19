@@ -16,6 +16,10 @@ dmention {
 	color: #7289d8;
 }
 
+bot {
+	color: #ad0a57;
+}
+
 img[alt$=-icon] { 
 	height: 300px;
 	width: 300px;
