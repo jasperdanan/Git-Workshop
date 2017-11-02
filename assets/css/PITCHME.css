@@ -1,3 +1,8 @@
+@font-face {
+	font-family: PICO-8;
+	src: url(assets/PICO-8_mono_upper.ttf);
+}
+
 .reveal .slides section h1,
 .reveal .slides section h2,
 .reveal .slides section h3 {
@@ -23,4 +28,8 @@ dbot {
 img[alt$=-icon] { 
 	height: 300px;
 	width: 300px;
+}
+
+.reveal code {
+	font-family: PICO-8, monospace; 
 }
